@@ -1,0 +1,38 @@
+📊 Budget Planner
+
+A full-stack budgeting web application that helps users track expenses, analyze spending, and visualize financial data with interactive charts.
+
+🚀 Tech Stack
+	•	Frontend: React, CSS
+	•	Backend: Python (Flask)
+	•	Charts: Chart.js
+	•	State Management: React Hooks
+	•	Storage: Local state / simple backend endpoints
+
+✨ Features
+	•	Add monthly income and expense categories
+	•	Track expenses with clean UI components
+	•	View interactive pie charts + summaries
+	•	Automatically calculates totals & remaining budget
+	•	Responsive and easy to extend
+
+📁 Project Structure
+budget-planner/
+│── backend/
+│   └── app.py
+│── frontend/
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── App.js
+│       └── index.js
+
+▶️ Running the Project Locally
+Backend
+cd backend
+python3 app.py
+
+Frontend
+cd frontend
+npm install
+npm start

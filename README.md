@@ -44,3 +44,8 @@ A full-stack budgeting web application that helps users track expenses, analyze 
 	cd frontend
 	npm install
 	npm start
+
+
+🎯 Status
+
+Actively improving UI/UX and adding more analytical features.
